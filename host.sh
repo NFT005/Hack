@@ -3,9 +3,9 @@
 # Host | Version - 2.0
 # Expose Your LocalHost
 #-------------------------------
-# Created By TAHMID RAYAT
-# Github : https://github.com/htr-tech
-# Instagram : https://www.instagram.com/tahmid.rayat
+# Created By NOUMAN AZIZ
+# Github : https://github.com/NFT005
+# Facebook : Nouman aziz
 #-----------------------------------------------------
 
 # If you Copy Then Give me The Credits
